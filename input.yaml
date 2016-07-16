@@ -1,0 +1,11 @@
+data:
+  - first_name: billy
+    last_name: kid
+    month: 6
+    year: 2012
+    movie: Men in Black
+  - first_name: willow
+    last_name:
+    month: 6
+    year: 2000
+    movie: December never ends
