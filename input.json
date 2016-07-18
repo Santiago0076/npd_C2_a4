@@ -1,28 +1,28 @@
 {
   data: [
     {
-     first_name: steve,
-     last_name: smith,
-     month: 9,
-     year: 1900
-     color: magenta,
-     movie: Butch cassidy and the sudance
-
-
-
-
-
-
+      "first_name": "Steve",
+      "last_name": "Classon",
+      "month": 9,
+      "year": 1968,
+      "color": "magenta",
+      "movie": "Lord of the rings"
+    },
+    {
+      "first_name": "Oskar",
+      "last_name": "Aksen",
+      "month": 11,
+      "year": 1980,
+      "color": "black",
+      "movie": "The Exorcist"
+    },
+    {
+      "first_name": "Rick",
+      "last_name": "Roberts",
+      "month": 9,
+      "year": 1982,
+      "color": "yellow",
+      "movie": "Stalingrad"
     }
-
-
-
-
-
-
-
   ]
-
-
-
 }

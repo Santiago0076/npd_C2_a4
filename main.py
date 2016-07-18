@@ -1,6 +1,6 @@
 import json
-import yaml
 import csv
+import yaml
 from pprint import pprint
 
 FILENAME_JSON = 'input.json'
